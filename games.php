@@ -1,0 +1,1 @@
+<a href="?page=ttc">Tic-Tac-Toe</a>
